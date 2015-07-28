@@ -13,6 +13,8 @@
     "ioredis": "^1.7.1",
     "jade": "~1.11.0",
     "morgan": "~1.6.1",
+    "node-inspector": "^0.11.2",
+    "nodemon": "^1.4.0",
     "serve-favicon": "~2.3.0"
   }
 }
